@@ -1,0 +1,44 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+body{
+    background-color: black;
+}
+
+header{
+    width: 60%;
+    height: 400px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS47B0HLq-vhMAwU0ScxCoM6vifIOOXoc44OQ&usqp=CAU);
+    background-size: 100% 100%;
+    margin-left: 22%;
+}
+header h1{
+    font-family: Courier, monospace;
+    font-size: 300%;
+    text-align: center;
+    text-decoration: underline;
+    padding-top: 22%;
+    color: white;
+}
+
+main{
+    margin-top: 5%;
+    color: white;
+    text-align: justify;
+    font-family: arial;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+main h2{
+    font-size: 200%;
+}
+main img{
+    height: 400px;
+    width: 40%;
+    padding-left: 30%;
+}
+main p{
+    font-size: 100%;
+}
